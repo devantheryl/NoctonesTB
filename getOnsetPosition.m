@@ -1,0 +1,4 @@
+
+
+function onsetPosition = getOnsetPosition(midifile)
+    
