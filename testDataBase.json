@@ -1,0 +1,23 @@
+{
+	"FileName":"testFileDataBase",
+	"items":[
+		{
+			"name":"120BPM_PIANO_C5_simple",
+			"instrument":"Piano",
+			"types":"",
+			"complexity":"",
+			"onsetsNumber":"",
+			"onsetsAnalyse":[
+				{
+					"methode":"spectralDifference",
+					"positifDetection":15,
+					"falsePositifDetection":0,
+					"missDetection":1,
+					"purcentagePositifDetection":93.75,
+					"purcentageFalsePoisitfDetection":"",
+					"purcentageMiss":6.25
+				}
+			]
+		}
+	]
+}
