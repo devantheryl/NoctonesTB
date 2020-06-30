@@ -1,0 +1,10 @@
+@startuml
+factory -> createDescriptionDataBase : createDescriptionDataBase()
+
+create AudioFile
+
+factory -> AudioFile : getMidiInformations()
+factory -> AudioFile : detectOnsets()
+
+factory -> AudioFile : testAccuracy()
+@enduml
