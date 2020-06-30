@@ -6,17 +6,21 @@ classdef AudioFile
         FFTSize
         hopSize
         tolerance
-        descritptionFileStrucutre
-        wavFile
-        midiFile
+        fileName
         midiMessages
-        realOnsets
         detectedOnsets
         comparaisonOnsets
     end
     
     methods
         
+        function obj = AudioFile(FFTSize,hopSize,tolerance,fileName,midiMessages)
+            obj.FFTSize = FFTSize;
+            obj.hopSize = hopSize;
+            obj.tolerance = tolerance;
+            obj.fileName = fileName;
+            obj.midiMessages = midiMessages;
+        end
         
         function obj = GetMidiInformations(obj)
             obj.midiMessages = readmidi(obj.midiFile); 
@@ -25,7 +29,7 @@ classdef AudioFile
         function obj = testAccuracy(obj)
             positifDetection =0;
             nbrFalsePositifDetection =0;
-            missDetection =0;
+            
             numberOfDetectedOnsets = size(obj.detectedOnsets,1);
             numberOfRealOnsets = size(obj.realOnsets,1);
             obj.comparaisonOnsets = zeros(2,numberOfRealOnsets);
@@ -52,8 +56,9 @@ classdef AudioFile
             
 
         end
-        function obj = detectOnsets(obj)
-            obj.detectedOnsets = spectralDifference_onsetDetection(obj.wavFile,obj.FFTSize,obj.hopSize);
+        function obj = detectOnsets(obj,wavFile)
+            
+            obj.detectedOnsets = spectralDifference_onsetDetection(wavFile,obj.FFTSize,obj.hopSize);
         end
         
             
