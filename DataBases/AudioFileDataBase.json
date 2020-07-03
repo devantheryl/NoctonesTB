@@ -1,19 +1,46 @@
 {
 	"items":[
 		{
-			"FileName":"120BPM_PIANO_C5_simple",
+			"FileName":"BADSISTA_midi_BADSISTA_midi_bass_loop_agora_135_Dmin",
 			"Instrument":"Piano",
-			"Types":"",
-			"Complexity":"",
-			"Tempo":120
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":135
 		},
 		{
-			"FileName":"130BPM_PIANO_multiNote",
+			"FileName":"BADSISTA_midi_BADSISTA_midi_bass_loop_pistao_01_130_Amin",
 			"Instrument":"Piano",
-			"Types":"",
-			"Complexity":"",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
 			"Tempo":130
+		},
+		{
+			"FileName":"BADSISTA_midi_BADSISTA_midi_bass_loop_pistao_02_130_Amin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":130
+		},
+		{
+			"FileName":"BADSISTA_midi_BADSISTA_midi_bell_melody_loop_pistao_130_Amin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":130
+		},
+		{
+			"FileName":"Bass_dth_124_bass_synth_loop_dark_Emin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":124
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_drill_shit_loops_CBMIX_midi_bell_loop_drill_shit_bell_plucks_140_Ebmin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
 		}
-		
 	]
 }
