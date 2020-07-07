@@ -1,0 +1,193 @@
+{
+	"fileName":"Bass_dth_124_bass_synth_loop_dark_Emin",
+	"methodeName":"MIR SpectroFrame",
+	"numberOfTest":2,
+	"items":[
+		{
+			"params":{
+				"FFTSize":2048,
+				"hopSize":500
+			},
+			"onSetsNumber":12,
+			"detectedNotes":[
+				{
+					"onsetTime":0.027983924,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.06194296697,
+					"deltaTime":0.03395904298,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.2319847905,
+					"deltaTime":0.1700418235,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.2817303939,
+					"deltaTime":0.04974560341,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.327976471,
+					"deltaTime":0.04624607713,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.3751027681,
+					"deltaTime":0.04712629705,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.5013415443,
+					"deltaTime":0.1262387762,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.5527785243,
+					"deltaTime":0.05143697996,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.5837620256,
+					"deltaTime":0.03098350137,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.811356212,
+					"deltaTime":0.2275941863,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.8459990096,
+					"deltaTime":0.03464279769,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.8726150558,
+					"deltaTime":0.02661604614,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":2048,
+				"hopSize":500
+			},
+			"onSetsNumber":12,
+			"detectedNotes":[
+				{
+					"onsetTime":0.027983924,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.06194296697,
+					"deltaTime":0.03395904298,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.2319847905,
+					"deltaTime":0.1700418235,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.2817303939,
+					"deltaTime":0.04974560341,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.327976471,
+					"deltaTime":0.04624607713,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.3751027681,
+					"deltaTime":0.04712629705,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.5013415443,
+					"deltaTime":0.1262387762,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.5527785243,
+					"deltaTime":0.05143697996,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.5837620256,
+					"deltaTime":0.03098350137,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.811356212,
+					"deltaTime":0.2275941863,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.8459990096,
+					"deltaTime":0.03464279769,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.8726150558,
+					"deltaTime":0.02661604614,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		}
+	]
+}
