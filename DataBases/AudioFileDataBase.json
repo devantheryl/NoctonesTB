@@ -41,6 +41,188 @@
 			"Types":"pitched percussif",
 			"Complexity":"normal",
 			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_01",
+			"Instrument":"hi-hat",
+			"Types":"non-pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_03",
+			"Instrument":"hi-hat",
+			"Types":"non-pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_04",
+			"Instrument":"hi-hat",
+			"Types":"non-pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_07",
+			"Instrument":"clap",
+			"Types":"non-pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_11",
+			"Instrument":"kick",
+			"Types":"non-pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_12",
+			"Instrument":"snare",
+			"Types":"non-pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_15",
+			"Instrument":"bass",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":140
+		},
+		{
+			"FileName":"CBMIX_midi_CBMIX_midi_hihat_loops_CBMIX_midi_hihat_loop_140_18",
+			"Instrument":"sax",
+			"Types":"pitched percussif",
+			"Complexity":"hard",
+			"Tempo":140
+		},
+		{
+			"FileName":"CUYO_midi_CUYO_midi_biotracking_rave_melody_138_Cmaj",
+			"Instrument":"Harp",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":138
+		},
+		{
+			"FileName":"CZ_midi_CZ_midi_sick_melody_blue_monday_140_Gm",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":140
+		},
+		{
+			"FileName":"DJ_TAYE_midi_DJ_TAYE_midi_crown_chakra_120_F#m",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":120
+		},
+		{
+			"FileName":"JAFUNK_midi_bass_loop_chunkyfunky_02_105",
+			"Instrument":"ALl Strings Pizzicato",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":105
+		},
+		{
+			"FileName":"JAFUNK_midi_bass_loop_flapper_01_110",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":105
+		},
+		{
+			"FileName":"JAFUNK_midi_bass_loop_jheez_01_110",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":110
+		},
+		{
+			"FileName":"JAFUNK_midi_bass_loop_octaves_02_110",
+			"Instrument":"flute",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":110
+		},
+		{
+			"FileName":"JAFUNK_midi_lead_loop_squash",
+			"Instrument":"flute",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":110
+		},
+		{
+			"FileName":"JAFUNK_midi_lead_loop_tuck",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":110
+		},
+		{
+			"FileName":"JAFUNK_midi_rhodes_loop_datfonk_110",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":110
+		},
+		{
+			"FileName":"JAFUNK_midi_rhodes_loop_jazzhands_110",
+			"Instrument":"Oboes",
+			"Types":"pitched percussif",
+			"Complexity":"very hard",
+			"Tempo":110
+		},
+		{
+			"FileName":"MEDASIN_midi_MEDASIN_midi_loop_dumb_happy_Bmaj",
+			"Instrument":"Trambone",
+			"Types":"pitched percussif",
+			"Complexity":"hard",
+			"Tempo":189
+		},
+		{
+			"FileName":"MEDASIN_midi_MEDASIN_midi_loop_dumb_happy_lead_D#min",
+			"Instrument":"Tubas",
+			"Types":"pitched percussif",
+			"Complexity":"hard",
+			"Tempo":160
+		},
+		{
+			"FileName":"MEDASIN_midi_MEDASIN_midi_loop_epic_lead_C#min",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"hard",
+			"Tempo":130
+		},
+		{
+			"FileName":"MEDASIN_midi_MEDASIN_midi_loop_neon_bassline_D#maj",
+			"Instrument":"sax",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":115
+		},
+		{
+			"FileName":"MEDASIN_midi_MEDASIN_midi_loop_spooked_Fmin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":115
+		},
+		{
+			"FileName":"Melody_dth_122_kit2_blur_synth_loop_Cmin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":122
+		},
+		{
+			"FileName":"Melody_dth_122_kit6_synthetics_synth_loop_Dmin",
+			"Instrument":"Piano",
+			"Types":"pitched percussif",
+			"Complexity":"normal",
+			"Tempo":122
 		}
 	]
 }
