@@ -1,0 +1,6406 @@
+{
+	"fileName":"Bass_dth_124_bass_synth_loop_dark_Emin",
+	"numberOfTest":100,
+	"tests":[
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.01
+			},
+			"truePositif":100,
+			"falsePositif":16.66666667,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.02
+			},
+			"truePositif":100,
+			"falsePositif":16.66666667,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.03
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.04
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.05
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.06
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.07
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.08
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.09
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.1
+			},
+			"truePositif":100,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":0.181451625,
+					"detected_onsetTime":0.1836045955,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0021529705
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.01
+			},
+			"truePositif":80,
+			"falsePositif":20,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.02
+			},
+			"truePositif":80,
+			"falsePositif":20,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.03
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.04
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.05
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.06
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.07
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.08
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.09
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.1
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.01
+			},
+			"truePositif":80,
+			"falsePositif":20,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.02
+			},
+			"truePositif":80,
+			"falsePositif":20,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.03
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.04
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.05
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.06
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.07
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.08
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.09
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.1
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.01
+			},
+			"truePositif":80,
+			"falsePositif":20,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.02
+			},
+			"truePositif":80,
+			"falsePositif":20,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.03
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.04
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.05
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.06
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.07
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.08
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.09
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.1
+			},
+			"truePositif":80,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.4243491383,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0009620133
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.01
+			},
+			"truePositif":60,
+			"falsePositif":25,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.02
+			},
+			"truePositif":60,
+			"falsePositif":25,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.03
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.04
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.05
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.06
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.07
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.08
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.09
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.1
+			},
+			"truePositif":60,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":0.2419355,
+					"detected_onsetTime":0.7880827826,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0017924076
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.01
+			},
+			"truePositif":40,
+			"falsePositif":33.33333333,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.02
+			},
+			"truePositif":40,
+			"falsePositif":33.33333333,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.03
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.04
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.05
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.06
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.07
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.08
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.09
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.1
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.01
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.02
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.03
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.04
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.05
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.06
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.07
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.08
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.09
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.1
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.01
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.02
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.03
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.04
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.05
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.06
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.07
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.08
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.09
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.1
+			},
+			"truePositif":40,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":0,
+					"detected_onsetTime":0.00134873564,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.00134873564
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.01
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.02
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.03
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.04
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.05
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.06
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.07
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.08
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.09
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.1
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.01
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.02
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.03
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.04
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.05
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.06
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.07
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.08
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.09
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		},
+		{
+			"methodeName":"filterBank_Envelope_peakPicking",
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.1
+			},
+			"truePositif":20,
+			"falsePositif":0,
+			"resultsNotes":[
+				{
+					"ref_onsetTime":0,
+					"ref_deltaTime":0,
+					"ref_length":0,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.181451625,
+					"ref_deltaTime":0.181451625,
+					"ref_length":0.181451625,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.423387125,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				},
+				{
+					"ref_onsetTime":0.544354875,
+					"ref_deltaTime":0.12096775,
+					"ref_length":0.12096775,
+					"ref_velocity":0.12096775,
+					"detected_onsetTime":0.5471590394,
+					"detected_length":"not implemented",
+					"detected_velocity":"not implemented",
+					"deltaTime":0.0028041644
+				},
+				{
+					"ref_onsetTime":0.786290375,
+					"ref_deltaTime":0.2419355,
+					"ref_length":0.2419355,
+					"ref_velocity":121,
+					"detected_onsetTime":"nothing detected",
+					"detected_length":"",
+					"detected_velocity":"",
+					"deltaTime":""
+				}
+			]
+		}
+	]
+}

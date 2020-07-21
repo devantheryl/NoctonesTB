@@ -1,0 +1,3951 @@
+{
+	"fileName":"JAFUNK_midi_bass_loop_octaves_02_110",
+	"methodeName":"filterBank_Envelope_peakPicking",
+	"numberOfTest":100,
+	"items":[
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.01
+			},
+			"onSetsNumber":11,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.02
+			},
+			"onSetsNumber":11,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.03
+			},
+			"onSetsNumber":11,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.04
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.05
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.06
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.07
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.08
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.09
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.1,
+				"Reso":0.1
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.257668395,
+					"deltaTime":0.2156920869,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.4091242589,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.01
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.02
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.03
+			},
+			"onSetsNumber":10,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.04
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.05
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.06
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.07
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.08
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.09
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.15,
+				"Reso":0.1
+			},
+			"onSetsNumber":9,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.149830773,
+					"deltaTime":0.2092298342,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.3903468101,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.041976308,
+					"deltaTime":0.5017987252,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":0.6248163458,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.082594878,
+					"deltaTime":0.4158022242,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":0.675053888,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.01
+			},
+			"onSetsNumber":7,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.02
+			},
+			"onSetsNumber":7,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.03
+			},
+			"onSetsNumber":7,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.04
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.05
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.06
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.07
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.08
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.09
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.2,
+				"Reso":0.1
+			},
+			"onSetsNumber":6,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":2.666792654,
+					"deltaTime":1.126615071,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":3.757648766,
+					"deltaTime":1.090856112,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.01
+			},
+			"onSetsNumber":5,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.02
+			},
+			"onSetsNumber":5,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.03
+			},
+			"onSetsNumber":5,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.907663897,
+					"deltaTime":0.4553779388,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.03293704156,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.04
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.05
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.06
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.07
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.08
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.09
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.25,
+				"Reso":0.1
+			},
+			"onSetsNumber":4,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.9406009385,
+					"deltaTime":0.4883149804,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":0.5995766443,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.01
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.02
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.03
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.04
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.05
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.06
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.07
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.08
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.09
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.3,
+				"Reso":0.1
+			},
+			"onSetsNumber":3,
+			"detectedNotes":[
+				{
+					"onsetTime":0.06036228969,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0.3919236685,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.01
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.02
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.03
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.04
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.05
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.06
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.07
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.08
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.09
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.35,
+				"Reso":0.1
+			},
+			"onSetsNumber":2,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				},
+				{
+					"onsetTime":1.540177583,
+					"deltaTime":1.087891625,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.01
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.02
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.03
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.04
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.05
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.06
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.07
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.08
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.09
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.4,
+				"Reso":0.1
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.01
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.02
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.03
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.04
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.05
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.06
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.07
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.08
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.09
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.45,
+				"Reso":0.1
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.01
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.02
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.03
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.04
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.05
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.06
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.07
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.08
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.09
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.5,
+				"Reso":0.1
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.01
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.02
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.03
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.04
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.05
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.06
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.07
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.08
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.09
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		},
+		{
+			"params":{
+				"FFTSize":"",
+				"hopSize":"",
+				"filterBank":"gammatone 7",
+				"threshold":0.55,
+				"Reso":0.1
+			},
+			"onSetsNumber":1,
+			"detectedNotes":[
+				{
+					"onsetTime":0.4522859582,
+					"deltaTime":0,
+					"length":"not implemented",
+					"velocity":"not implemented",
+					"pitch":"not implemented"
+				}
+			]
+		}
+	]
+}
